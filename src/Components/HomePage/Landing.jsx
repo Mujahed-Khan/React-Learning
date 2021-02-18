@@ -1,10 +1,10 @@
 import React from 'react';
-// import { MainHeader } from '../A-HeaderSection/MainBodyHeader/MainHeader';
+import {FetchingDataFromReduxParent} from '../../Practice/FetchingDataFromRedux/FetchingDataFromReduxParent';
 
 export const Landing = () => {
     return (
         <div>
-            {/* <MainHeader /> */}
+            <FetchingDataFromReduxParent/>
         </div>
     );
 };

@@ -1,0 +1,17 @@
+.main-header--position{
+    border-radius: 30px;
+    background-color: rgba(105, 90, 205, 0.747);
+
+}
+#root>div>div>div>div>nav>div>a{
+    color: snow;
+
+}
+.main-header--image{
+    width: 100px;
+    border-radius: 30px;
+}
+#root>div>div>div>div>nav>form>button{
+    color: snow;
+    border: 1px solid whitesmoke;
+}
